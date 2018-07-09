@@ -1,4 +1,3 @@
-puts "Hello World"
+double_string = "String"
 
-print "Hello World!"
-puts "potato"
+puts double_string
