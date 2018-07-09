@@ -1,4 +1,5 @@
-puts "hello"
-name = gets.strip
+puts "How old are you going to be in six years?"
+puts "What is your current age?"
+age = gets.strip + 6
 
-puts "Hello #{name}"
+puts "In six years you will be #{age} years old"
