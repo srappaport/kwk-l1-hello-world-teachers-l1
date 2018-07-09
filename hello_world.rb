@@ -1,3 +1,3 @@
 var = "thirty"
 
-puts "In six years I will be #{var} years old."
+puts "The syntax for interpolation is #{}."
