@@ -1,7 +1,3 @@
-
-x = 3+4
-
-print x.to_i + 1
-num = x*x*5
-
-puts num
+a =1
+b= 2
+puts a+b 
