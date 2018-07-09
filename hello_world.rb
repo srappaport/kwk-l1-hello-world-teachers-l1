@@ -1,3 +1,2 @@
-var = "thirty"
+greeting = "Hello user!"
 
-puts "The syntax for interpolation is #{}."
