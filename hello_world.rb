@@ -1,2 +1,1 @@
-puts "Hello World!" #will output 'hello world'
-
+print "Hello World!"
