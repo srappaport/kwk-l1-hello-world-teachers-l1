@@ -1,2 +1,2 @@
-greeting = "Hello user!"
-
+puts "hello"
+name = gets.strip
