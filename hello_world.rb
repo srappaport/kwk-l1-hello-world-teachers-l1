@@ -1,3 +1,3 @@
-a ="1"
-b= "2"
-puts a+b 
+teacher = "Sarah"
+
+puts teacher
