@@ -1,1 +1,1 @@
- "hello".upcase
+1+1
