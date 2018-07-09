@@ -1,3 +1,3 @@
-teacher = "Sarah"
+var = 24+6
 
-puts teacher
+puts "In six years I will be #{var} years old."
